@@ -42,8 +42,7 @@ alert(age);
 alert(course);
 
 // <<<<<<<<<QUESTION 5>>>>>>>>>>
-var p = "pizza"
-alert(p);
+alert("PIZZA\n" + "PIZZ\n" + "PIZ\n" + "PI\n" + "P");
 
 // <<<<<<<<<QUESTION 6>>>>>>>>>>
 var email = "Syedsuhaibhussani@gmail.com"
@@ -243,7 +242,7 @@ var Snack_per_day = 2;
 
 console.log("Favourite snack :" + Fav_Snack);
 console.log("Current age :" + Current_age);
-console.log("Estimated Maximum age :" Est_age);
+console.log("Estimated Maximum age :" + Est_age);
 console.log("Amount of Snacks per day :" + Snack_per_day);
 var Total_Snacks = (Est_age - Current_Year ) *2*256
 console.log("You will need" + Total_Snacks + "Ice Cream to last you until the ripe old age  of 65")
