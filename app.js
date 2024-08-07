@@ -75,8 +75,10 @@ var birth_year = "My Birthyear is 1993"
 console.log(birth_year)
 
 // <<<<<<<<<QUESTION 4>>>>>>>>>>
-// <<<<<<<<<<<<< not attempt>>>>>>>>>>>>>
-
+var Visitors_name = prompt("visitors name");
+var Product_title = prompt("product");
+var Quantity = prompt("no. of pieces");
+console.log(Visitors_name + "ordered" + Quantity + Product_title + "from THE CLOTHING CENTER");
 
 
 // <<<<<<<<<<<<< CHAPTER 4 LEGAL & ILLEGAL >>>>>>>>>>>>
@@ -181,7 +183,7 @@ var f =+prompt("Enter Fehrenheit Temperature");
 var c = (f - 32 ) * 5/9;
 console.log(c);
 
-// <<<<<<<<<<Part a>>>>>>>>>
+// <<<<<<<<<<Part b>>>>>>>>>
 var C =+prompt("Enter Celsius temperature")
 var F = (C * 9/5) + 32;
 console.log(F)
