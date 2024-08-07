@@ -106,3 +106,72 @@ var HARRY = 100;
 // <<<<<<<<<<<<< CHAPTER 5 MATH EXPRESSIONS >>>>>>>>>>>>
 // <<<<<<<<<QUESTION 1>>>>>>>>>>
 
+var a = +prompt("enter your number")
+var b = +prompt("enter your number")
+c = a+b
+// document.write("sum of   " + a +" and  "+ b +" = "+c)
+
+
+// <<<<<<<<<QUESTION 2>>>>>>>>>>
+
+//////////////subtraction//////
+var a = +prompt("enter your number")
+var b = +prompt("enter your number")
+c = a-b
+// document.write("sub of   " + a +" and  "+ b +" = "+c)
+
+
+
+//////////////////multiplication/////////
+
+var a = +prompt("enter your number")
+var b = +prompt("enter your number")
+c = a*b
+// document.write("multiplication of   " + a +" and  "+ b +" = "+c)
+
+
+////////////division ///////////
+var a = +prompt("enter your number")
+var b = +prompt("enter your number")
+c = a/b
+// document.write("Divison of   " + a +" and  "+ b +" = "+c)
+
+
+
+/////////////modulus///////////
+var a = +prompt("enter your number")
+var b = +prompt("enter your number")
+c = a%b
+// document.write("modulus of   " + a +" and  "+ b +" = "+c)
+
+// <<<<<<<<<QUESTION 3>>>>>>>>>>
+// <<<<<<<<<NOT ATTEMPT>>>>>>>>>>
+
+
+// <<<<<<<<<QUESTION 4>>>>>>>>>>
+var ticket_price = 600;
+var total_cost = ticket_price*5;
+console.log("total cost of buy 5 ticket moives  " +total_cost+"PKR")
+
+// <<<<<<<<<QUESTION 5>>>>>>>>>>
+// <<<<<<<<<NOT ATTEMPT>>>>>>>>>>
+
+
+// <<<<<<<<<QUESTION 6>>>>>>>>>>
+// <<<<<<<<<NOT ATTEMPT>>>>>>>>>>
+
+
+// <<<<<<<<<QUESTION 7>>>>>>>>>>
+var price_item1 = 60;
+var price_item2 = 40;
+var Qty_item1 = 1;
+var Qty_item2 = 3;
+totalcost = (price_item1*Qty_item1)+(price_item2*Qty_item2)
+console.log("price item1 is = 60\n"+"QTY item1 = 1\n"+"price item2 = 40\n"+"Qty item2 = 3\n"+"totalcost your order  = "+totalcost)
+
+
+// <<<<<<<<<QUESTION 7>>>>>>>>>>
+// <<<<<<<<<NOT ATTEMPT>>>>>>>>>>
+
+// <<<<<<<<<QUESTION 8>>>>>>>>>>
+// <<<<<<<<<NOT ATTEMPT>>>>>>>>>>
